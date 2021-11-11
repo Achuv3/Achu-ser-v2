@@ -1,5 +1,5 @@
 <div align="center">
-  <img border-radius: 15px src="Screenshot_2021-11-11-10-37-07-86." width="200" height="200"/>
+  <img border-radius: 15px src="IMG-20211110-WA0060.jpg" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="Achu-ser-v2" src="https://img.shields.io/badge/Achu-ser-v2-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
